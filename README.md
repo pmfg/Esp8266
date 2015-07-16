@@ -8,4 +8,8 @@ Options of make:
 	- make udpServer
 	- make clean
 	
+Options of udpEsp8266:
 
+	- (-r) make reset of Esp before start program
+	- (-d) debug, print to terminal each character received by Esp
+	- (-s) spew, print to terminal, output string treated of Esp
